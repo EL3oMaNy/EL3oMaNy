@@ -1,11 +1,16 @@
-# مرحبًا 👋 أنا [EL3oMaNy]
+<h1 align="center">Hi 👋, I'm EL3oMaNy</h1>
+<h3 align="center">A passionate coding from Egypt</h3>
 
-## إحصائيات GitHub
-![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=700Daa&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-## أكثر اللغات استخدامًا
-![أكثر اللغات استخدامًا](https://github-readme-stats.vercel.app/api/top-langs/?username=700Daa&layout=compact&theme=radical)
 
-## تواصل معي
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hesham-7b6a97354)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2)](https://www.facebook.com/mahmod.hesham.77/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-hesham-7b6a97354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hesham-7b6a97354" height="30" width="40" /></a>
+<a href="https://fb.com/mahmod.hesham.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmod.hesham.77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahmodhesham351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmodhesham351" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/el3omany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="el3omany" height="30" width="40" /></a>
+<a href="https://discord.gg/hooda5531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hooda5531" height="30" width="40" /></a>
+</p>
+
