@@ -8,4 +8,4 @@
 
 ## تواصل معي
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hesham-7b6a97354)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2)](https://www.facebook.com/mahmod.hesham.77/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2)](https://www.facebook.com/mahmod.hesham.77/)
