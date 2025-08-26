@@ -12,13 +12,7 @@
     
 
  
-</h1>
-<br/>
-<h5 align="center"> 
-  
-  ![image](https://github.com/ash356/ash356/blob/main/4ff07986208593.5d9a654e92f36.gif)
-</h5>
-<br/>
+
 
 <p align="center"> 
   
@@ -73,15 +67,7 @@ const EL3oMaNy = {
   [<img src='https://github.com/ash356/ash356/blob/main/images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-hesham-7b6a97354//)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   
  
-</h2>
-<br/>
-<br/>
-<p align="center"> 
-  Views<br/><br/>
-  <img src="https://profile-counter.glitch.me/EL3oMaNy/count.svg" />
-  <br/>
-</p>
-<h4 align="center"> 
+
   
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </h4>
