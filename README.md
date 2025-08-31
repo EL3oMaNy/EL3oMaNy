@@ -1,19 +1,6 @@
 <h3 align="center"> 
   Hi there 👋, I'm < Mahmoud Hesham />
-</h3>
-  <br />
-  <div align="center">
-    <img 
-      src="https://github.com/EL3oMaNy.png" 
-      alt="Mahmoud Hesham" 
-      width="250" 
-      style="border-radius: 50%; border: 5px solid white;" />
-  </div>
-    
-
- 
-
-
+  </h3>
 <p align="center"> 
   
   ```javascript
@@ -60,8 +47,7 @@ const EL3oMaNy = {
   🤝 Connect With Me
   <br/>
   <br/>
-  
-  [<img src='https://github.com/ash356/ash356/blob/main/images/github.svg' alt='github' height='40'>](https://github.com/EL3oMaNy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   [<img src='https://github.com/ash356/ash356/blob/main/images/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahmod.hesham.77/) &nbsp;&nbsp;&nbsp;
    [<img src='https://github.com/ash356/ash356/blob/main/images/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ma7moudel3omany/?fbclid=IwAR0p9mGxrk1wcftODeZrCVEApIPnEJH4FP2CqmuZL6QHPPaiokq0dAFor8s/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [<img src='https://github.com/ash356/ash356/blob/main/images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-hesham-7b6a97354//)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
