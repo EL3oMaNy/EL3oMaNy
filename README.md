@@ -1,22 +1,10 @@
 <h3 align="center"> 
   Hi there 👋, I'm < Mahmoud Hesham />
   </h3>
-<p align="center"> 
-  
-  ```javascript
-const EL3oMaNy = {
 
-  pronouns: 🙋‍♂️ "He" | "Him",
-  code: [ C#, C, C++, Python , SQL],
-    
-    tools: [ "Git", "GitHub", "VS-Code","PostMan","FontAwesome" ],
-  SoftSkills: [ "Problem-Solving", "Creativity", "Teamwork", "Communication" ],
-  funFact:
-    "There are two ways to write error-free programs; only the third one works 😊",   
-};
+[![Mahmod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL3oMaNy&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/EL3oMaNy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EL3oMaNy&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/EL3oMaNy)
 
-```
-</p>
 <hr>
 <!-- Skills -->
 <h2 align="center"> 
